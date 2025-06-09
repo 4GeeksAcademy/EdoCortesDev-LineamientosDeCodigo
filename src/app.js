@@ -5,6 +5,9 @@ import "./style.css";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
+// El nuevo código fue dividido en funciones pequenas, claras y con una unica responsabilidad
+// Funciones ynombres de variables con nombres claros y descriptivos
+
 window.onload = function () {
   generarDominios();
 };
